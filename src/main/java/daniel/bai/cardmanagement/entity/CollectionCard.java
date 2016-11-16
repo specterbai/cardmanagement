@@ -8,5 +8,4 @@ import java.util.List;
 public class CollectionCard extends Card{
     int foils;
     int regulars;
-    List<ChangeLogs> changeLogsList;
 }
