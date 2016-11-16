@@ -1,4 +1,4 @@
-package daniel.bai.cardmanagement.constant;
+package daniel.bai.cardmanagement.enums;
 
 /**
  * Created by sisuser on 11/15/16.

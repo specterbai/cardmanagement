@@ -1,6 +1,6 @@
 package daniel.bai.cardmanagement.entity;
 
-import daniel.bai.cardmanagement.constant.TradeType;
+import daniel.bai.cardmanagement.enums.TradeType;
 
 /**
  * Created by sisuser on 11/15/16.
